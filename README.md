@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D9488,100:065F46&height=180&section=header&text=PixelsSuite%20Playwright%20Automation&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=End-to-End%20Test%20Automation%20%7C%20IT4100%20SQA&descAlignY=68&descSize=15&fontAlign=35&descAlign=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E3A8A,50:1D4ED8,100:0EA5E9&height=180&section=header&text=PixelsSuite%20Playwright%20Automation&fontSize=34&fontColor=ffffff&fontAlignY=50&desc=End-to-End%20Test%20Automation%20%7C%20IT4100%20SQA&descAlignY=68&descSize=15" width="100%"/>
+
+
 
 <!-- BADGES ROW 1 -->
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)

@@ -248,7 +248,7 @@ npx playwright show-report
 
 ## 📝 Notes
 
-> 💡 This project is intended for **academic use** as part of the IT4100 SQA assignment.
+> 💡 This project is intended for **academic use**
 
 - ⚠️ The **Transliteration** feature is **not** included in this test suite.
 - 🧪 Some tests validate **initial UI state** and **empty submission behavior** rather than visual comparison.

@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:06B6D4&height=200&section=header&text=PixelsSuite%20Playwright%20Automation&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=End-to-End%20Test%20Automation%20%E2%80%93%20Software%20Quality%20Assurance&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F0A1E,50:3B0764,100:1E1B4B&height=180&section=header&text=PixelsSuite%20Playwright%20Automation&fontSize=34&fontColor=E9D5FF&fontAlignY=45&desc=End-to-End%20Test%20Automation%20%7C%20IT4100%20SQA&descAlignY=65&descSize=15&fontAlign=50" width="100%"/>
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Playwright+E2E+Automation;Screenshot+%26+Report+Generation;7+Feature+Areas+Covered;Built+for+IT4100+SQA+Assignment" alt="Typing SVG" />
 <br/>

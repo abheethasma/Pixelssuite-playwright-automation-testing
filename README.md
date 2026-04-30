@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0F0A1E,50:3B0764,100:1E1B4B&height=180&section=header&text=PixelsSuite%20Playwright%20Automation&fontSize=34&fontColor=E9D5FF&fontAlignY=45&desc=End-to-End%20Test%20Automation%20%7C%20IT4100%20SQA&descAlignY=65&descSize=15&fontAlign=50" width="100%"/>
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Playwright+E2E+Automation;Screenshot+%26+Report+Generation;7+Feature+Areas+Covered;Built+for+IT4100+SQA+Assignment" alt="Typing SVG" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D9488,100:065F46&height=180&section=header&text=PixelsSuite%20Playwright%20Automation&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=End-to-End%20Test%20Automation%20%7C%20IT4100%20SQA&descAlignY=68&descSize=15&fontAlign=35&descAlign=35" width="100%"/>
 
 <!-- BADGES ROW 1 -->
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
